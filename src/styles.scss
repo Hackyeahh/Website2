@@ -1,0 +1,31 @@
+
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.center-main{
+    justify-content: center;
+}
+
+.center-cross{
+    align-items: center;
+}
+
+// Hi, I'm Henry Xiu ...
+    section.name{        
+        margin-top: 15%;
+
+        background-color: white;
+    }
+
+    h1.name, h2.name, p.name{
+        margin: 0px auto;
+    }
+
